@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  6 MAR 2022 19:01
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  12 APR 2022 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/tsujimurayuutakeshi/git/default_tex/hoge.tex
-(/Users/tsujimurayuutakeshi/git/default_tex/hoge.tex
+**/Users/tsujimurayuutakeshi/git/LegislativeAttention/hoge.tex
+(/Users/tsujimurayuutakeshi/git/LegislativeAttention/hoge.tex
 pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -304,10 +304,6 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 20.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 20.
 (out/hoge.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 28.
@@ -316,15 +312,15 @@ Package natbib Warning: Empty `thebibliography' environment on input line 28.
 
 ] (out/hoge.aux)
 Package rerunfilecheck Info: File `hoge.out' has not changed.
-(rerunfilecheck)             Checksum: 1486F43AF8F2AFB0C284BFC4EBC05583;117.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9956 strings out of 479466
- 181532 string characters out of 5870547
- 468308 words of memory out of 5000000
- 27548 multiletter control sequences out of 15000+600000
- 415458 words of font info for 75 fonts, out of 8000000 for 9000
+ 9951 strings out of 479466
+ 181503 string characters out of 5870547
+ 470206 words of memory out of 5000000
+ 27543 multiletter control sequences out of 15000+600000
+ 415151 words of font info for 74 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 71i,6n,77p,271b,720s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,6n,77p,280b,720s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/hoge.dvi (1 page, 1520 bytes).
+Output written on out/hoge.dvi (1 page, 1736 bytes).
