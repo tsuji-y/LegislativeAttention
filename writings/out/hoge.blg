@@ -19,46 +19,46 @@ Warning--I didn't find a database entry for ""
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 24 entries,
+You've used 33 entries,
             9766 wiz_defined-function locations,
-            1936 strings with 16646 characters,
-and the built_in function-call counts, 37205 in all, are:
-= -- 6683
-> -- 980
-< -- 56
-+ -- 317
-- -- 356
-* -- 1427
-:= -- 4402
-add.period$ -- 24
-call.type$ -- 24
-change.case$ -- 225
-chr.to.int$ -- 30
-cite$ -- 24
-duplicate$ -- 893
-empty$ -- 2145
-format.name$ -- 295
-if$ -- 10842
+            1998 strings with 18066 characters,
+and the built_in function-call counts, 51769 in all, are:
+= -- 9355
+> -- 1308
+< -- 78
++ -- 418
+- -- 463
+* -- 1960
+:= -- 6159
+add.period$ -- 31
+call.type$ -- 33
+change.case$ -- 305
+chr.to.int$ -- 39
+cite$ -- 33
+duplicate$ -- 1248
+empty$ -- 2933
+format.name$ -- 409
+if$ -- 15069
 int.to.chr$ -- 0
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 97
-num.names$ -- 220
-pop$ -- 488
+newline$ -- 124
+num.names$ -- 308
+pop$ -- 659
 preamble$ -- 1
-purify$ -- 175
+purify$ -- 241
 quote$ -- 0
-skip$ -- 3494
+skip$ -- 4874
 stack$ -- 0
-substring$ -- 2480
-swap$ -- 48
-text.length$ -- 98
-text.prefix$ -- 0
+substring$ -- 3556
+swap$ -- 106
+text.length$ -- 148
+text.prefix$ -- 5
 top$ -- 0
-type$ -- 198
+type$ -- 282
 warning$ -- 0
-while$ -- 168
+while$ -- 239
 width$ -- 0
-write$ -- 378
-is.kanji.str$ -- 637
+write$ -- 514
+is.kanji.str$ -- 871
 (There was 1 warning)
