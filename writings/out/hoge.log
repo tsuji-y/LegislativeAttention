@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  4 JUN 2022 17:29
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  5 JUN 2022 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,7 +315,7 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 25.
-[2] [3] [4] [5] (out/hoge.bbl
+[2] [3] [4] [5] [6] (out/hoge.bbl
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 30.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
@@ -334,81 +334,85 @@ LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 65.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 69.
-[6]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 73.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 78.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 83.
+[7]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 88.
+(Font)              No change on input line 87.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 94.
+(Font)              No change on input line 91.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 98.
+(Font)              No change on input line 97.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 102.
+(Font)              No change on input line 103.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 108.
+(Font)              No change on input line 107.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 112.
+(Font)              No change on input line 111.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 117.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 121.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 127.
+(Font)              No change on input line 126.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 131.
+(Font)              No change on input line 130.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 136.
-[7]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 140.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 144.
+(Font)              No change on input line 145.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 148.
+(Font)              No change on input line 149.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 154.
+(Font)              No change on input line 153.
+[8]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 159.
+(Font)              No change on input line 157.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 163.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 168.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--166
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 []\OT1/cmr/m/n/10 Schaeffer, Kather-ine (2019) ``Share of Amer-i-cans who fa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--166
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 \OT1/cmr/m/n/10 vor stricter gun laws has in-creased since 2017,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--166
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 []$\OT1/cmtt/m/n/10 https : / / www . pewresearch . org / fact-[]tank / 2019 / 10 / 16 /
  []
 
 
-Overfull \hbox (51.2745pt too wide) in paragraph at lines 162--166
+Overfull \hbox (51.2745pt too wide) in paragraph at lines 171--175
 \OT1/cmtt/m/n/10 share-[]of-[]americans-[]who-[]favor-[]stricter-[]gun-[]laws-[]has-[]increased-[]since-[]2017/$[]\OT1/cmr/m/n/10 ,
  []
 
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 169.
+(Font)              No change on input line 178.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 173.
-) [8] (out/hoge.aux)
+(Font)              No change on input line 182.
+) [9] (out/hoge.aux)
 Package rerunfilecheck Info: File `hoge.out' has not changed.
 (rerunfilecheck)             Checksum: 5FB7B5C97D44CBF46348FE607F3F8F18;734.
  ) 
 Here is how much of TeX's memory you used:
- 10072 strings out of 479466
- 183921 string characters out of 5870547
- 478539 words of memory out of 5000000
- 27658 multiletter control sequences out of 15000+600000
+ 10078 strings out of 479466
+ 184041 string characters out of 5870547
+ 479599 words of memory out of 5000000
+ 27664 multiletter control sequences out of 15000+600000
  417038 words of font info for 81 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 71i,8n,77p,910b,873s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,77p,910b,881s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/hoge.dvi (8 pages, 52628 bytes).
+Output written on out/hoge.dvi (9 pages, 59388 bytes).
