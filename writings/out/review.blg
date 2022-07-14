@@ -1,6 +1,6 @@
 This is pBibTeX, Version 0.99d-j0.33 (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: out/hoge.aux
+The top-level auxiliary file: out/review.aux
 The style file: jecon.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -15,50 +15,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: reference.bib
-Warning--I didn't find a database entry for ""
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 35 entries,
+Warning--there is no volume, number, and pages in Bussing2021-pb
+You've used 28 entries,
             9766 wiz_defined-function locations,
-            2013 strings with 18366 characters,
-and the built_in function-call counts, 54673 in all, are:
-= -- 9880
-> -- 1362
-< -- 83
-+ -- 434
-- -- 477
-* -- 2065
-:= -- 6503
-add.period$ -- 33
-call.type$ -- 35
-change.case$ -- 322
-chr.to.int$ -- 41
-cite$ -- 35
-duplicate$ -- 1326
-empty$ -- 3101
-format.name$ -- 423
-if$ -- 15905
+            1978 strings with 17514 characters,
+and the built_in function-call counts, 44464 in all, are:
+= -- 7813
+> -- 1052
+< -- 75
++ -- 332
+- -- 350
+* -- 1741
+:= -- 5211
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 221
+chr.to.int$ -- 28
+cite$ -- 29
+duplicate$ -- 1110
+empty$ -- 2451
+format.name$ -- 304
+if$ -- 12720
 int.to.chr$ -- 0
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 130
-num.names$ -- 328
-pop$ -- 696
+newline$ -- 109
+num.names$ -- 270
+pop$ -- 483
 preamble$ -- 1
-purify$ -- 253
+purify$ -- 195
 quote$ -- 0
-skip$ -- 5154
+skip$ -- 4274
 stack$ -- 0
-substring$ -- 3798
-swap$ -- 115
-text.length$ -- 155
-text.prefix$ -- 5
+substring$ -- 3652
+swap$ -- 165
+text.length$ -- 69
+text.prefix$ -- 0
 top$ -- 0
 type$ -- 300
-warning$ -- 0
-while$ -- 256
+warning$ -- 1
+while$ -- 243
 width$ -- 0
-write$ -- 544
-is.kanji.str$ -- 913
+write$ -- 442
+is.kanji.str$ -- 767
 (There was 1 warning)
