@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex out/review"] 1657732025 "out/review.aux" "out/review.bbl" "out/review" 1657732213
+["bibtex out/test"] 1662447269 "out/test.aux" "out/test.bbl" "out/test" 1662449413
   "./jecon.bst" 1646559737 126102 5f32714ae610010f81278421d40bfbfd ""
-  "out/review.aux" 1657732191 5051 0c62a6bc2fcf0a7175ef94f30afea6b3 "latex"
-  "reference.bib" 1657732016 74985 74cf2c6730b1c4b84c7cf6a85a9b86ec ""
+  "out/test.aux" 1662447269 5989 331b124f87e3c5f54306ec4f8f5b34d4 "latex"
+  "reference.bib" 1662447174 76554 443a3083eecd574e08bc8d692616a71f ""
   (generated)
-  "out/review.bbl"
-  "out/review.blg"
-["dvipdf"] 1657732191 "out/review.dvi" "out/review.pdf" "out/review" 1657732213
-  "out/review.dvi" 1657732191 55060 ddf6500ff8c990723ba5b9e1282e9bd2 "latex"
+  "out/test.bbl"
+  "out/test.blg"
+["dvipdf"] 1662447269 "out/test.dvi" "out/test.pdf" "out/test" 1662449413
+  "out/test.dvi" 1662447269 61512 4427ba202e20d86911e263e175e823f9 "latex"
   (generated)
-  "out/review.pdf"
-["latex"] 1657732191 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/review.tex" "out/review.dvi" "review" 1657732213
-  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/review.tex" 1657732213 22830 2c2f02872c4a7209dc5efa7366498880 ""
+  "out/test.pdf"
+["latex"] 1662447269 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex" "out/test.dvi" "test" 1662449413
+  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex" 1662446081 415 17e6d6647b0f73adc60c253d1598360d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -94,12 +94,13 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1640509091 2717274 3b18e93ab4066e47b354e1e4b8ab89d2 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "out/review.aux" 1657732191 5051 0c62a6bc2fcf0a7175ef94f30afea6b3 "latex"
-  "out/review.bbl" 1657732026 7633 f980d838e21e19e90be465faa592d000 "bibtex out/review"
-  "out/review.out" 1657732191 753 fb5df0ed52e7874641d5fb823bc28987 "latex"
-  "review.tex" 1657732213 22830 2c2f02872c4a7209dc5efa7366498880 ""
+  "main.tex" 1662449413 22654 b79dccd054673fd47b64edc5e8c7fced ""
+  "out/test.aux" 1662447269 5989 331b124f87e3c5f54306ec4f8f5b34d4 "latex"
+  "out/test.bbl" 1662447269 8962 0814b1c3e15104fd34ccc2e983123447 "bibtex out/test"
+  "out/test.out" 1662447269 662 c75dac36dbf0dc472f2a631dfee08b89 "latex"
+  "test.tex" 1662446081 415 17e6d6647b0f73adc60c253d1598360d ""
   (generated)
-  "out/review.out"
-  "out/review.log"
-  "out/review.aux"
-  "out/review.dvi"
+  "out/test.log"
+  "out/test.dvi"
+  "out/test.out"
+  "out/test.aux"
