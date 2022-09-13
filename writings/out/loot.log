@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  6 SEP 2022 15:54
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.12.26)  13 SEP 2022 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex
-(/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex
+**/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/loot.tex
+(/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/loot.tex
 pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -243,8 +243,8 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip57
-) (out/test.aux)
-\openout1 = `test.aux'.
+) (out/loot.aux)
+\openout1 = `loot.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -286,9 +286,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
-(out/test.out) (out/test.out)
+(out/loot.out) (out/loot.out)
 \@outlinefile=\write3
-\openout3 = `test.out'.
+\openout3 = `loot.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
@@ -300,7 +300,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
-(./main.tex
+(./intro.tex
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -315,10 +315,13 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 11.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 13.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 13.
-[2] [3] [4] [5] [6]) (out/test.bbl
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
+[2] [3]
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 40.
+[4] [5] [6] [7] [8]) (out/loot.bbl
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 30.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
@@ -331,93 +334,104 @@ LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 49.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 55.
+[9]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 60.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 65.
-[7]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 69.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 73.
+(Font)              No change on input line 75.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 78.
+(Font)              No change on input line 79.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 83.
+(Font)              No change on input line 84.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 87.
+(Font)              No change on input line 89.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 91.
+(Font)              No change on input line 93.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 97.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 103.
+(Font)              No change on input line 102.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 107.
+(Font)              No change on input line 105.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 111.
+(Font)              No change on input line 110.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 117.
+(Font)              No change on input line 116.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 121.
+(Font)              No change on input line 120.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 126.
+(Font)              No change on input line 124.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 130.
+[10]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 136.
-[8]
+(Font)              No change on input line 134.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 141.
+(Font)              No change on input line 139.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 145.
+(Font)              No change on input line 144.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 149.
+(Font)              No change on input line 147.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 153.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 157.
+(Font)              No change on input line 158.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 161.
+(Font)              No change on input line 162.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 167.
+(Font)              No change on input line 166.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 172.
+(Font)              No change on input line 170.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 174.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 178.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 184.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 189.
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
 []\OT1/cmr/m/n/10 Schaeffer, Kather-ine (2019) ``Share of Amer-i-cans who fa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
 \OT1/cmr/m/n/10 vor stricter gun laws has in-creased since 2017,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
 []$\OT1/cmtt/m/n/10 https : / / www . pewresearch . org / fact-[]tank / 2019 / 10 / 16 /
  []
 
 
-Overfull \hbox (51.2745pt too wide) in paragraph at lines 175--179
+Overfull \hbox (51.2745pt too wide) in paragraph at lines 192--196
 \OT1/cmtt/m/n/10 share-[]of-[]americans-[]who-[]favor-[]stricter-[]gun-[]laws-[]has-[]increased-[]since-[]2017/$[]\OT1/cmr/m/n/10 ,
  []
 
+[11]
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 182.
+(Font)              No change on input line 199.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 186.
-) [9] (out/test.aux)
-Package rerunfilecheck Info: File `test.out' has not changed.
-(rerunfilecheck)             Checksum: C75DAC36DBF0DC472F2A631DFEE08B89;662.
+(Font)              No change on input line 203.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 207.
+) [12] (out/loot.aux)
+Package rerunfilecheck Info: File `loot.out' has not changed.
+(rerunfilecheck)             Checksum: 99AA1716CBC3298DCF99B5FBF5D721B2;1141.
  ) 
 Here is how much of TeX's memory you used:
- 10084 strings out of 479466
- 184126 string characters out of 5870547
- 479565 words of memory out of 5000000
- 27667 multiletter control sequences out of 15000+600000
- 417038 words of font info for 81 fonts, out of 8000000 for 9000
+ 10102 strings out of 479466
+ 184488 string characters out of 5870547
+ 480124 words of memory out of 5000000
+ 27684 multiletter control sequences out of 15000+600000
+ 417390 words of font info for 82 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 71i,8n,77p,926b,873s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,77p,1399b,900s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/test.dvi (9 pages, 61512 bytes).
+Output written on out/loot.dvi (12 pages, 80088 bytes).

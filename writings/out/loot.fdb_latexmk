@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex out/test"] 1662447269 "out/test.aux" "out/test.bbl" "out/test" 1662623416
+["bibtex out/loot"] 1663059172 "out/loot.aux" "out/loot.bbl" "out/loot" 1663059405
   "./jecon.bst" 1646559737 126102 5f32714ae610010f81278421d40bfbfd ""
-  "out/test.aux" 1662447269 5989 331b124f87e3c5f54306ec4f8f5b34d4 "latex"
-  "reference.bib" 1662447174 76554 443a3083eecd574e08bc8d692616a71f ""
+  "out/loot.aux" 1663059331 7361 9ef50620bf9d12529f3165dd2c1a527a "latex"
+  "reference.bib" 1663051992 82663 25c323b0b6cc894cc67f39a0b232ba4f ""
   (generated)
-  "out/test.blg"
-  "out/test.bbl"
-["dvipdf"] 1662447269 "out/test.dvi" "out/test.pdf" "out/test" 1662623416
-  "out/test.dvi" 1662447269 61512 4427ba202e20d86911e263e175e823f9 "latex"
+  "out/loot.bbl"
+  "out/loot.blg"
+["dvipdf"] 1663059331 "out/loot.dvi" "out/loot.pdf" "out/loot" 1663059405
+  "out/loot.dvi" 1663059331 80088 5f8baa70011947b207b4d166db6716c4 "latex"
   (generated)
-  "out/test.pdf"
-["latex"] 1662447269 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex" "out/test.dvi" "test" 1662623416
-  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/test.tex" 1662623416 415 17e6d6647b0f73adc60c253d1598360d ""
+  "out/loot.pdf"
+["latex"] 1663059331 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/loot.tex" "out/loot.dvi" "loot" 1663059405
+  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writings/loot.tex" 1662623572 416 d327ccf76da3f1a2e25f86325912029d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -37,6 +37,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti8.tfm" 1136768653 1504 1747189e0441d1c18f3ea56fafc1c480 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1136768653 768 d7b9a2629a0c353102ad947dc9221d49 ""
@@ -94,13 +95,13 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1640509091 2717274 3b18e93ab4066e47b354e1e4b8ab89d2 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "main.tex" 1662449413 22654 b79dccd054673fd47b64edc5e8c7fced ""
-  "out/test.aux" 1662447269 5989 331b124f87e3c5f54306ec4f8f5b34d4 "latex"
-  "out/test.bbl" 1662447269 8962 0814b1c3e15104fd34ccc2e983123447 "bibtex out/test"
-  "out/test.out" 1662447269 662 c75dac36dbf0dc472f2a631dfee08b89 "latex"
-  "test.tex" 1662623416 415 17e6d6647b0f73adc60c253d1598360d ""
+  "intro.tex" 1663059330 31643 6f85673aece2d0007ffb27253443b66f ""
+  "loot.tex" 1662623572 416 d327ccf76da3f1a2e25f86325912029d ""
+  "out/loot.aux" 1663059331 7361 9ef50620bf9d12529f3165dd2c1a527a "latex"
+  "out/loot.bbl" 1663059172 9969 049cdef83cefe4f65b03bc6a004bc198 "bibtex out/loot"
+  "out/loot.out" 1663059331 1141 99aa1716cbc3298dcf99b5fbf5d721b2 "latex"
   (generated)
-  "out/test.aux"
-  "out/test.out"
-  "out/test.log"
-  "out/test.dvi"
+  "out/loot.aux"
+  "out/loot.out"
+  "out/loot.dvi"
+  "out/loot.log"
