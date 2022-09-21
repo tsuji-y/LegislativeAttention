@@ -469,6 +469,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
 INPUT out/loot.aux
 INPUT out/loot.aux
 INPUT out/loot.aux
@@ -562,6 +573,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT intro.tex
+OUTPUT out/loot.dvi
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -572,10 +584,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin6.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm
-OUTPUT out/loot.dvi
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT review.tex
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
 INPUT out/loot.bbl
 INPUT out/loot.bbl
