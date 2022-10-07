@@ -1,0 +1,52 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  This bbl file is created by jecon.bst ver.6.5.1
+%  The latest jecon.bst is available at
+%  <http://shirotakeda.org/ja/tex-ja/jecon-ja.html>
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{2.5em}{.3pt}\hskip0.5em}
+\fi
+
+%%% Definition of \bysamejp
+\ifx\undefined\bysamejp
+\newcommand{\bysamejp}{\hskip.2em
+  \leavevmode\rule[.7ex]{2.5em}{.3pt}\hskip0.3em}
+\fi
+
+
+\makeatletter\@ifundefined{ifNAT@openbib}{\@latex@error{Package 'natbib' is not
+  loaded! Please load Package 'natbib' in your preamble.\MessageBreak
+  Additionally, if you use url field in your bib record entry, please also load
+  Package 'hyperref' or 'pxjahyper', 'url' package.}\@ehc}{}\relax\makeatother
+\begin{thebibliography}{xxx}
+
+
+\harvarditem[Adler and Wilkerson]{Adler and Wilkerson}{2013}{Adler2013-ay}
+Adler, E~Scott and John~D Wilkerson (2013)  \textit{ Congress and the Politics
+  of Problem Solving}: Cambridge University Press.
+
+\harvarditem[Baumgartner and Jones]{Baumgartner and
+  Jones}{1993}{Baumgartner1993-bc}
+Baumgartner, Frank~R and Bryan~D Jones (1993)  \textit{ Agendas and Instability
+  in American Politics}: University of Chicago Press.
+
+\harvarditem[Binder]{Binder}{2017}{Binder2017-wr}
+Binder, Sarah (2017) ``Polarized We Govern?'' in Gerber, Alan~S and Eric
+  Schickler eds.   \textit{ Governing in a Polarized Age: Elections, Parties,
+  and Political Representation in America}, pp. 223--242: Cambridge University
+  Press.
+
+\harvarditem[Binder]{Binder}{2003}{Binder2003-bn}
+Binder, Sarah~A (2003)  \textit{ Stalemate: Causes and Consequences of
+  Legislative Gridlock}: Brookings Institution Press.
+
+\harvarditem[Mayhew]{Mayhew}{1991}{Mayhew1991-rq}
+Mayhew, David~R (1991)  \textit{ Divided we govern: Party control, lawmaking,
+  and investigations, 1946-1990}: Yale University Press.
+
+\end{thebibliography}
+

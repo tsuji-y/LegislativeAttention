@@ -1,0 +1,62 @@
+This is pBibTeX, Version 0.99d-j0.33 (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: out/main.aux
+The style file: jecon.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated glb_str_ptr (elt_size=4) to 30 items from 20.
+Reallocated global_strs (elt_size=200001) to 30 items from 20.
+Reallocated glb_str_end (elt_size=4) to 30 items from 20.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: reference.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 5 entries,
+            9766 wiz_defined-function locations,
+            1825 strings with 14017 characters,
+and the built_in function-call counts, 7078 in all, are:
+= -- 1189
+> -- 185
+< -- 11
++ -- 56
+- -- 58
+* -- 267
+:= -- 886
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 41
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 185
+empty$ -- 445
+format.name$ -- 51
+if$ -- 2021
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 40
+num.names$ -- 52
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 662
+stack$ -- 0
+substring$ -- 459
+swap$ -- 9
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 0
+while$ -- 39
+width$ -- 0
+write$ -- 94
+is.kanji.str$ -- 120
