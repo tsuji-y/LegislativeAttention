@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex out/main"] 1665111161 "out/main.aux" "out/main.bbl" "out/main" 1665126414
+["bibtex out/main"] 1665139988 "out/main.aux" "out/main.bbl" "out/main" 1665139989
   "./jecon.bst" 1663575270 126102 5f32714ae610010f81278421d40bfbfd ""
-  "out/main.aux" 1665111373 2739 aa511048f6d43e838da06893b2db4f0a "latex"
-  "reference.bib" 1664955084 90305 e9fe2e2f3c0570478cf0ef46e6f1af97 ""
+  "out/main.aux" 1665139989 3798 4c42738e6dfb0d8eb5d49dc2721f066a "latex"
+  "reference.bib" 1665135479 95776 8ce0e51deade0cac9ad550b1511e9c15 ""
   (generated)
   "out/main.blg"
   "out/main.bbl"
-["dvipdf"] 1665111373 "out/main.dvi" "out/main.pdf" "out/main" 1665126414
-  "out/main.dvi" 1665111373 19136 ea6fc8b7459ce13180412500dc890201 "latex"
+["dvipdf"] 1665139989 "out/main.dvi" "out/main.pdf" "out/main" 1665139989
+  "out/main.dvi" 1665139989 38260 3cf00d163fcc54e476f058960817d89f "latex"
   (generated)
   "out/main.pdf"
-["latex"] 1665111373 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" "out/main.dvi" "main" 1665126414
-  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" 1665126414 9659 6d580256e0d9673b9da62534c841c3e2 ""
+["latex"] 1665139988 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" "out/main.dvi" "main" 1665139989
+  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" 1665139986 18881 bb894854b850073c33eb96de1c4714c7 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -26,9 +26,12 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin6.tfm" 1463434352 856 e782a1e1d78799594d137f0fef162b39 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin8.tfm" 1463434352 856 bdef40bcf3aed4751efa9be9bfa6eb4b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin9.tfm" 1463434352 856 b22b8128b44bf8881977f2c74b361f47 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -61,7 +64,10 @@
   "/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty" 1576015897 19007 15924f7228aca6c6d184b115f4baa231 ""
   "/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty" 1593379760 20089 80423eac55aa175305d35b49e04fe23b ""
   "/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty" 1576624663 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1523134290 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty" 1523134290 4161 7f6eb9092061a11f87d08ed13515b48d ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty" 1601675358 87353 2c21ff5f2e32e1bf714e600924d810db ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty" 1523134290 4116 32e6abd27229755a83a8b7f18e583890 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty" 1523134290 2432 8ff93b1137020e8f21930562a874ae66 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/atveryend/atveryend.sty" 1576191570 19336 ce7ae9438967282886b3b036cfad1e4d ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty" 1576625391 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
@@ -102,12 +108,12 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1640509091 2717274 3b18e93ab4066e47b354e1e4b8ab89d2 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "main.tex" 1665126414 9659 6d580256e0d9673b9da62534c841c3e2 ""
-  "out/main.aux" 1665111373 2739 aa511048f6d43e838da06893b2db4f0a "latex"
-  "out/main.bbl" 1665111161 2002 40c9870306c2dd6707c13e4ad0795c18 "bibtex out/main"
-  "out/main.out" 1665111373 737 4c1a25a6803dbc05fdf8e33ee971a118 "latex"
+  "main.tex" 1665139986 18881 bb894854b850073c33eb96de1c4714c7 ""
+  "out/main.aux" 1665139989 3798 4c42738e6dfb0d8eb5d49dc2721f066a "latex"
+  "out/main.bbl" 1665139988 3851 575f527e22afcef10c633cd0efa06c28 "bibtex out/main"
+  "out/main.out" 1665139989 743 7f0e8050ed82d75d9e0ad4c38a0111f2 "latex"
   (generated)
-  "out/main.dvi"
   "out/main.log"
-  "out/main.out"
+  "out/main.dvi"
   "out/main.aux"
+  "out/main.out"

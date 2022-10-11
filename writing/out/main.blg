@@ -18,45 +18,45 @@ Database file #1: reference.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 5 entries,
+You've used 14 entries,
             9766 wiz_defined-function locations,
-            1825 strings with 14017 characters,
-and the built_in function-call counts, 7078 in all, are:
-= -- 1189
-> -- 185
-< -- 11
-+ -- 56
-- -- 58
-* -- 267
-:= -- 886
-add.period$ -- 5
-call.type$ -- 5
-change.case$ -- 41
-chr.to.int$ -- 5
-cite$ -- 5
-duplicate$ -- 185
-empty$ -- 445
-format.name$ -- 51
-if$ -- 2021
+            1883 strings with 15241 characters,
+and the built_in function-call counts, 20265 in all, are:
+= -- 3595
+> -- 477
+< -- 32
++ -- 147
+- -- 145
+* -- 752
+:= -- 2464
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 120
+chr.to.int$ -- 14
+cite$ -- 14
+duplicate$ -- 514
+empty$ -- 1184
+format.name$ -- 131
+if$ -- 5829
 int.to.chr$ -- 0
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 40
-num.names$ -- 52
-pop$ -- 104
+newline$ -- 67
+num.names$ -- 140
+pop$ -- 281
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 94
 quote$ -- 0
-skip$ -- 662
+skip$ -- 1920
 stack$ -- 0
-substring$ -- 459
-swap$ -- 9
-text.length$ -- 13
+substring$ -- 1460
+swap$ -- 30
+text.length$ -- 52
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 120
 warning$ -- 0
-while$ -- 39
+while$ -- 109
 width$ -- 0
-write$ -- 94
-is.kanji.str$ -- 120
+write$ -- 229
+is.kanji.str$ -- 316
