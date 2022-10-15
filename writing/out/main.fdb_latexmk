@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex out/main"] 1665139988 "out/main.aux" "out/main.bbl" "out/main" 1665139989
+["bibtex out/main"] 1665815048 "out/main.aux" "out/main.bbl" "out/main" 1665815101
   "./jecon.bst" 1663575270 126102 5f32714ae610010f81278421d40bfbfd ""
-  "out/main.aux" 1665139989 3798 4c42738e6dfb0d8eb5d49dc2721f066a "latex"
+  "out/main.aux" 1665815053 3934 50e8044cb902a1aa5bfa7f7c0c99052c "latex"
   "reference.bib" 1665135479 95776 8ce0e51deade0cac9ad550b1511e9c15 ""
   (generated)
   "out/main.blg"
   "out/main.bbl"
-["dvipdf"] 1665139989 "out/main.dvi" "out/main.pdf" "out/main" 1665139989
-  "out/main.dvi" 1665139989 38260 3cf00d163fcc54e476f058960817d89f "latex"
+["dvipdf"] 1665815053 "out/main.dvi" "out/main.pdf" "out/main" 1665815101
+  "out/main.dvi" 1665815053 40444 83628eac55d1265339dc57cf3affac81 "latex"
   (generated)
   "out/main.pdf"
-["latex"] 1665139988 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" "out/main.dvi" "main" 1665139989
-  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" 1665139986 18881 bb894854b850073c33eb96de1c4714c7 ""
+["latex"] 1665815053 "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" "out/main.dvi" "main" 1665815101
+  "/Users/tsujimurayuutakeshi/git/LegislativeAttention/writing/main.tex" 1665815101 19689 d8aca9da71f83c6fd2fa8b0fe7b67ccc ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -108,12 +108,12 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1640509091 2717274 3b18e93ab4066e47b354e1e4b8ab89d2 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "main.tex" 1665139986 18881 bb894854b850073c33eb96de1c4714c7 ""
-  "out/main.aux" 1665139989 3798 4c42738e6dfb0d8eb5d49dc2721f066a "latex"
-  "out/main.bbl" 1665139988 3851 575f527e22afcef10c633cd0efa06c28 "bibtex out/main"
-  "out/main.out" 1665139989 743 7f0e8050ed82d75d9e0ad4c38a0111f2 "latex"
+  "main.tex" 1665815101 19689 d8aca9da71f83c6fd2fa8b0fe7b67ccc ""
+  "out/main.aux" 1665815053 3934 50e8044cb902a1aa5bfa7f7c0c99052c "latex"
+  "out/main.bbl" 1665815048 4041 1348fcb9c18e679e998e69f0a5729ca8 "bibtex out/main"
+  "out/main.out" 1665815053 743 7f0e8050ed82d75d9e0ad4c38a0111f2 "latex"
   (generated)
+  "out/main.aux"
   "out/main.log"
   "out/main.dvi"
-  "out/main.aux"
   "out/main.out"
