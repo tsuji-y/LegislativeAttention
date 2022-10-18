@@ -15,48 +15,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: reference.bib
+Warning--I didn't find a database entry for ""
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 15 entries,
+You've used 25 entries,
             9766 wiz_defined-function locations,
-            1889 strings with 15370 characters,
-and the built_in function-call counts, 21689 in all, are:
-= -- 3859
-> -- 505
-< -- 35
-+ -- 155
-- -- 152
-* -- 800
-:= -- 2636
-add.period$ -- 15
-call.type$ -- 15
-change.case$ -- 131
-chr.to.int$ -- 18
-cite$ -- 15
-duplicate$ -- 553
-empty$ -- 1270
-format.name$ -- 138
-if$ -- 6245
+            1944 strings with 16488 characters,
+and the built_in function-call counts, 34848 in all, are:
+= -- 6135
+> -- 800
+< -- 57
++ -- 250
+- -- 240
+* -- 1284
+:= -- 4214
+add.period$ -- 25
+call.type$ -- 25
+change.case$ -- 209
+chr.to.int$ -- 28
+cite$ -- 25
+duplicate$ -- 916
+empty$ -- 2088
+format.name$ -- 219
+if$ -- 10022
 int.to.chr$ -- 0
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 70
-num.names$ -- 150
-pop$ -- 304
+newline$ -- 100
+num.names$ -- 242
+pop$ -- 504
 preamble$ -- 1
-purify$ -- 100
+purify$ -- 166
 quote$ -- 0
-skip$ -- 2055
+skip$ -- 3328
 stack$ -- 0
-substring$ -- 1556
-swap$ -- 32
-text.length$ -- 58
+substring$ -- 2528
+swap$ -- 48
+text.length$ -- 80
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 126
+type$ -- 210
 warning$ -- 0
-while$ -- 117
+while$ -- 185
 width$ -- 0
-write$ -- 244
-is.kanji.str$ -- 334
+write$ -- 389
+is.kanji.str$ -- 530
+(There was 1 warning)
